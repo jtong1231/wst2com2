@@ -100,12 +100,12 @@ const CHARS: &[char] = &[
     'm', 'n', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z',
 ];
 
-pub const RENDEZVOUS_SERVERS: &[&str] = &["cd2.fuofnug42iksfh11.top"];
+pub const RENDEZVOUS_SERVERS: &[&str] = &["cd2.fuovgbn42lksfji12.top"];
 pub const RS_PUB_KEY: &str = "gRP1LZ3P4dMEatpfCA4qfNVTETTCmmn7cPkK+uX3HVk=";
-pub const RENDEZVOUS_PORT: i32 = 58706;
-pub const RELAY_PORT: i32 = 58707;
-pub const WS_RENDEZVOUS_PORT: i32 =58708;
-pub const WS_RELAY_PORT: i32 = 58709;
+pub const RENDEZVOUS_PORT: i32 = 58806;
+pub const RELAY_PORT: i32 = 58807;
+pub const WS_RENDEZVOUS_PORT: i32 =58808;
+pub const WS_RELAY_PORT: i32 = 58809;
 
 
 macro_rules! serde_field_string {
